@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador ILM",
+  "description": "Um sistema completo para gestão educacional e clínica social, permitindo o gerenciamento de alunos, funcionários, cursos, turmas e acompanhamento psicanalítico.",
+  "requestFramePermissions": []
+}
